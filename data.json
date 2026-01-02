@@ -1,18 +1,18 @@
 [
   {
     "id": 1767329660913,
-    "name": "Abilash",
+    "name": "Abi",
     "gender": "Male",
     "mobile": "9876543210",
-    "email": "abilash@example.com",
+    "email": "abi@example.com",
     "seatNumber": 1
   },
   {
     "id": 1767331114213,
-    "name": "Sridevi abilash",
+    "name": "Sri abi",
     "gender": "female",
     "mobile": "9876543217",
-    "email": "srideviabilash@example.com",
+    "email": "sriabi@example.com",
     "seatNumber": 2
   }
 ]
